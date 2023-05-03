@@ -1,0 +1,11 @@
+D:\UserFiles\Desktop\учебня\oop\gitfolder\1074_kp_task8\planee\bin\Debug\planee.exe.config
+D:\UserFiles\Desktop\учебня\oop\gitfolder\1074_kp_task8\planee\bin\Debug\planee.exe
+D:\UserFiles\Desktop\учебня\oop\gitfolder\1074_kp_task8\planee\bin\Debug\planee.pdb
+D:\UserFiles\Desktop\учебня\oop\gitfolder\1074_kp_task8\planee\obj\Debug\planee.csproj.AssemblyReference.cache
+D:\UserFiles\Desktop\учебня\oop\gitfolder\1074_kp_task8\planee\obj\Debug\planee.csproj.SuggestedBindingRedirects.cache
+D:\UserFiles\Desktop\учебня\oop\gitfolder\1074_kp_task8\planee\obj\Debug\planee.Form1.resources
+D:\UserFiles\Desktop\учебня\oop\gitfolder\1074_kp_task8\planee\obj\Debug\planee.Properties.Resources.resources
+D:\UserFiles\Desktop\учебня\oop\gitfolder\1074_kp_task8\planee\obj\Debug\planee.csproj.GenerateResource.cache
+D:\UserFiles\Desktop\учебня\oop\gitfolder\1074_kp_task8\planee\obj\Debug\planee.csproj.CoreCompileInputs.cache
+D:\UserFiles\Desktop\учебня\oop\gitfolder\1074_kp_task8\planee\obj\Debug\planee.exe
+D:\UserFiles\Desktop\учебня\oop\gitfolder\1074_kp_task8\planee\obj\Debug\planee.pdb
