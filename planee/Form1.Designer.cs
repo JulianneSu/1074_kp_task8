@@ -29,12 +29,20 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.imageList1 = new System.Windows.Forms.ImageList(this.components);
             this.SuspendLayout();
             // 
             // timer1
             // 
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            // 
+            // imageList1
+            // 
+            this.imageList1.ImageStream = ((System.Windows.Forms.ImageListStreamer)(resources.GetObject("imageList1.ImageStream")));
+            this.imageList1.TransparentColor = System.Drawing.Color.RosyBrown;
+            this.imageList1.Images.SetKeyName(0, "chokirick.png");
             // 
             // Form1
             // 
@@ -51,6 +59,7 @@
         #endregion
 
         private System.Windows.Forms.Timer timer1;
+        private System.Windows.Forms.ImageList imageList1;
     }
 }
 
