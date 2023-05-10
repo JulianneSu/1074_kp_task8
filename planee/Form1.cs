@@ -39,24 +39,11 @@ namespace planee
             timer1.Enabled = true;
 
         }
-        private void Form1_Paint(object sender, PaintEventArgs e)
-        {
-            pn1 = new Pen(Color.BurlyWood, 3);
-            pn2 = new Pen(Color.DarkOliveGreen, 3);
-           
-
-
-
-        }
+        
         private void timer1_Tick(object sender, EventArgs e)
         {
-           
- 
-            
-            
             this.Refresh();
-
-            
+                        
 
             if (p1.x + w > 470 || p1.x < 0 )
             {
